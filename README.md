@@ -1,6 +1,6 @@
 # DW_project
 Repository for assignments and projects in Data Warehouse and Big Data Analytics 
 
-# Introduce Analyst
+# Introduce myself
 Name : Nanadda Rattanasri
 673020490-8
