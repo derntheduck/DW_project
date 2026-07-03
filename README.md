@@ -8,12 +8,13 @@ Name : Nanadda Rattanasri
 ---
 ## Basic git command
 command
-git clone	Get the course repo
 
-git add + git commit	Save your work
+`git clone	Get the course repo
 
-git push	Back it up to GitHub
+`git add + git commit	Save your work
 
-git checkout -b	Try something without breaking main
+`git push	Back it up to GitHub
 
-git log --oneline	See what you've done
+`git checkout -b	Try something without breaking main
+
+`git log --oneline	See what you've done
