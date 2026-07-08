@@ -5,7 +5,6 @@ Repository for assignments and projects in Data Warehouse and Big Data Analytics
 Name : Nanadda Rattanasri
 Nickname :dernloso
 673020490-8
-Nickname : dernloso
 ---
 ## Basic git command
 command
