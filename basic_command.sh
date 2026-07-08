@@ -1,3 +1,4 @@
+# please enter the commit 
 # add all changes to the staging area
 git add .
 # commit the changes with a message
