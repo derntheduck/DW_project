@@ -7,3 +7,7 @@ git commit -m "Your commit message here"
 git push origin <remote-branch-name>
 # switch to a different branch
 git switch <branch-name>
+
+# pip commands
+#freeze the current environment's packages to a requirements file
+pip freeze > requirements.txt
